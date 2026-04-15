@@ -19,7 +19,7 @@ This enables more intuitive search experiences where results reflect what you me
 
 ## Learning Resources
 
-![Training Visualization](screenshots/train.png)
+![Training Visualization](screenshots/training.png)
 
 This frontend application includes comprehensive didactic content to help you understand transformer models:
 
